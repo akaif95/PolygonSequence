@@ -1,9 +1,4 @@
 '''
-Author: <Ali Kaif>
-Date: <February 2nd, 2018>
-Class: ISTA 130
-Section Leader: <Sebastian>
-
 Description:
 <This program is designed to create a drawing of my choice by creating a
 shapes function. I call the drawing, Polygon Palooza Swirl>
